@@ -7,11 +7,11 @@
 <p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>👋 Hi, I’m MANOJ HONGAL</li>
+  <li>❤️ I love Creating websites and Programming in JAVA.</li>
+  <li>🌱 I’m currently learning Web Development, Java, Python, and JS.</li>
+  <li>💼 I'm a Front end developer </li>
+  
 </ul>
 
 #### A little more about me
